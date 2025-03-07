@@ -29,6 +29,7 @@
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   },
-"homepage": "https://sandesh-sapkota.github.io/ReactJs-Concepts/password-generator"
+"homepage": "https://sandesh-sapkota.github.io/ReactJs-Concepts/05passwordGenerator"
+
 
 }
