@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.11",
@@ -29,5 +29,6 @@
     "globals": "^15.15.0",
     "vite": "^6.2.0"
   },
-  "homepage": "https://github.com/sandesh-sapkota/ReactJs-Concepts"
+"homepage": "https://sandesh-sapkota.github.io/ReactJs-Concepts/password-generator"
+
 }
